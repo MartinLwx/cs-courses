@@ -7,7 +7,7 @@ author: "MartinLwx"
 description: "the solutions for exercises in MIT. Missing-semester"
 ---
 
-## Lecture 1. Shell
+## Lecture 01. Shell
 
 ---
 
