@@ -17,3 +17,5 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [Lecture 01. Course overview + the shell](./MIT/Missing-semester-2020/lecture1.md)
 - [x] [Lecture 02. Shell Tools and Scripting](./MIT/Missing-semester-2020/lecture02.md)
 - [x] [Lecture 03. Editor(vim)](./MIT/Missing-semester-2020/lecture03.md)
+- [x] [Lecture 04. Data Wrangling](./MIT/Missing-semester-2020/lecture04.md)
+
