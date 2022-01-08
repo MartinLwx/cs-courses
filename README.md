@@ -21,4 +21,4 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [Lecture 05. Command-line Environment](./MIT/Missing-semester-2020/lecture05.md)
 - [x] [Lecture 06. Version control(Git)](./MIT/Missing-semester-2020/lecture06.md)
 - [x] [Lecture 07. Debugging and Profiling](./MIT/Missing-semester-2020/lecture07.md)
-
+- [x] [Lecture 08. Metaprogramming](./MIT/Missing-semester-2020/lecture08.md)

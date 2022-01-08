@@ -1,4 +1,4 @@
-## Lecture 07.
+## Lecture 07. Debugging and profiling
 
 ---
 
