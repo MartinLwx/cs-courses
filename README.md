@@ -5,7 +5,6 @@
 This is a repo for cs-courses.
 
 A collection of exercises in many cs-courses I hava learned.
-
 For a better reading experience, you may check my [website](https://martinlwx.github.io). I put these solutions in #course.
 
 ## MIT
@@ -30,9 +29,12 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
+- [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
 
 
 ### [CS61B-Spring-2021](http://sp21.datastructur.es)
 
 - [x] [hw00. Basic Java Programs](./UCB/CS61B-Spring-2021/Hw00.java)
+
+
 
