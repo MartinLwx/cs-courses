@@ -36,5 +36,6 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 - [x] [hw00. Basic Java Programs](./UCB/CS61B-Spring-2021/Hw00.java)
 
+- [x] [lab01. IntelliJ, Java, git](./UCB/CS61B-Spring-2021/lab1)
 
 
