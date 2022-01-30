@@ -38,4 +38,5 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 - [x] [lab01. IntelliJ, Java, git](./UCB/CS61B-Spring-2021/lab1)
 
+- [x] [proj0. 2048](./UCB/CS61B-Spring-2021/proj0)
 
