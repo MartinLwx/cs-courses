@@ -28,6 +28,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 ### [CS61A-Fall-2021](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 
 - [x] [lab01. Variables & Functions, Control](./UCB/CS61A-Fall-2021/lab01.py)
+- [x] [lab02. Higher-Order Functions, Lambda Expressions](./UCB/CS61A-Fall-2021/lab02.py)
 
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
