@@ -27,9 +27,11 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 ### [CS61A-Fall-2021](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 
+
+
 - [x] [lab01. Variables & Functions, Control](./UCB/CS61A-Fall-2021/lab01.py)
 - [x] [lab02. Higher-Order Functions, Lambda Expressions](./UCB/CS61A-Fall-2021/lab02.py)
-
+- [x] [lab03. Midterm Review](./UCB/CS61A-Fall-2021/lab03.py)
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
 - [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
@@ -37,10 +39,10 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 ### [CS61B-Spring-2021](http://sp21.datastructur.es)
 
+
+
 - [x] [lab01. IntelliJ, Java, git](./UCB/CS61B-Spring-2021/lab1)
 - [x] [lab02. JUnit Tests and Debugging](./UCB/CS61B-Spring-2021/lab2)
-
 - [x] [hw00. Basic Java Programs](./UCB/CS61B-Spring-2021/Hw00.java)
-
 - [x] [proj0. 2048](./UCB/CS61B-Spring-2021/proj0)
 
