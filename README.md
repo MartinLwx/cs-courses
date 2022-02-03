@@ -32,6 +32,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [lab01. Variables & Functions, Control](./UCB/CS61A-Fall-2021/lab01.py)
 - [x] [lab02. Higher-Order Functions, Lambda Expressions](./UCB/CS61A-Fall-2021/lab02.py)
 - [x] [lab03. Midterm Review](./UCB/CS61A-Fall-2021/lab03.py)
+- [x] [lab04. Recursion, Tree Recursion, Python Lists](./UCB/CS61A-Fall-2021/lab04.py)
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
 - [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
