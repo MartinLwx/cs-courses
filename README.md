@@ -44,6 +44,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 - [x] [lab01. IntelliJ, Java, git](./UCB/CS61B-Spring-2021/lab1)
 - [x] [lab02. JUnit Tests and Debugging](./UCB/CS61B-Spring-2021/lab2)
+- [x] [lab03. Timing Tests and Randomized Comparison Tests](./UCB/CS61B-Spring-2021/lab3)
 - [x] [hw00. Basic Java Programs](./UCB/CS61B-Spring-2021/Hw00.java)
 - [x] [proj0. 2048](./UCB/CS61B-Spring-2021/proj0)
 
