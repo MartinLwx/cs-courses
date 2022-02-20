@@ -37,6 +37,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
 - [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
+- [x] [hw04. Data Abstraction, Trees](./UCB/CS61A-Fall-2021/hw04.py)
 
 
 ### [CS61B-Spring-2021](http://sp21.datastructur.es)
