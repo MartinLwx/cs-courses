@@ -35,6 +35,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [lab04. Recursion, Tree Recursion, Python Lists](./UCB/CS61A-Fall-2021/lab04.py)
 - [x] [lab05. Python Lists, Trees](./UCB/CS61A-Fall-2021/lab05.py)
 - [x] [lab06. Mutability and Iterators](./UCB/CS61A-Fall-2021/lab06.py)
+- [x] [lab07. Object-Oriented Programming](./UCB/CS61A-Fall-2021/lab07)
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
 - [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
