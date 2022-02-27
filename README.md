@@ -38,6 +38,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [lab07. Object-Oriented Programming](./UCB/CS61A-Fall-2021/lab07)
 - [x] [lab08. Linked Lists, Mutable Trees](./UCB/CS61A-Fall-2021/lab08.py)
 - [x] [lab09. Midterm Review](./UCB/CS61A-Fall-2021/lab09.py)
+- [x] [lab10. Scheme](./UCB/CS61A-Fall-2021/lab10.scm)
 - [x] [hw01. Control](./UCB/CS61A-Fall-2021/hw01.py)
 - [x] [hw02. Higher-Order Functions](./UCB/CS61A-Fall-2021/hw02.py)
 - [x] [hw03. Recursion, Tree Recursion](./UCB/CS61A-Fall-2021/hw03.py)
