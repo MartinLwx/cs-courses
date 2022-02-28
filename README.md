@@ -4,7 +4,7 @@
 
 This is a repo for cs-courses.
 
-A collection of exercises in many cs-courses I hava learned.
+A collection of exercises in many cs-courses I have learned.
 For a better reading experience, you may check my [website](https://martinlwx.github.io). I put these solutions in #course.
 
 ## MIT
@@ -46,6 +46,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [hw05. Iterators and Generators](./UCB/CS61A-Fall-2021/hw05.py)
 - [x] [hw06. Object Oriented Programming, Linked Lists](./UCB/CS61A-Fall-2021/hw06.py)
 - [x] [hw07. Scheme](./UCB/CS61A-Fall-2021/hw07.scm)
+- [x] [hw08. Scheme Lists](./UCB/CS61A-Fall-2021/hw08.scm)
 
 
 ### [CS61B-Spring-2021](http://sp21.datastructur.es)
