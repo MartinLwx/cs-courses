@@ -48,6 +48,7 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 - [x] [hw06. Object Oriented Programming, Linked Lists](./UCB/CS61A-Fall-2021/hw06.py)
 - [x] [hw07. Scheme](./UCB/CS61A-Fall-2021/hw07.scm)
 - [x] [hw08. Scheme Lists](./UCB/CS61A-Fall-2021/hw08.scm)
+- [x] [hw09. Regular Expressions](./UCB/CS61A-Fall-2021/hw09.py)
 
 
 ### [CS61B-Spring-2021](http://sp21.datastructur.es)
