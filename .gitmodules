@@ -3,7 +3,7 @@
 	url = git@github.com:MartinLwx/Missing-semester-2020-MIT.git
 [submodule "UCB/CS61B-Spring-2021-UCB"]
 	path = UCB/CS61B-Spring-2021-UCB
-	url = https://github.com/MartinLwx/CS61B-Spring-2021-UCB
+	url = git@github.com:MartinLwx/CS61B-Spring-2021-UCB.git
 [submodule "UCB/CS61A-Fall-2021-UCB"]
 	path = UCB/CS61A-Fall-2021-UCB
-	url = https://github.com/MartinLwx/CS61A-Fall-2021-UCB
+	url = git@github.com:MartinLwx/CS61A-Fall-2021-UCB.git
