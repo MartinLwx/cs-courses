@@ -7,3 +7,6 @@
 [submodule "UCB/CS61A-Fall-2021-UCB"]
 	path = UCB/CS61A-Fall-2021-UCB
 	url = git@github.com:MartinLwx/CS61A-Fall-2021-UCB.git
+[submodule "UCB/Data100-Fall-2021-UCB"]
+	path = UCB/Data100-Fall-2021-UCB
+	url = git@github.com:MartinLwx/Data100-Fall-2021-UCB.git
