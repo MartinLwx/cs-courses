@@ -15,10 +15,10 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 ## Finished
 
 -   [x] [Missing-semester-2020-MIT](https://github.com/MartinLwx/Missing-semester-2020-MIT)
+-   [x] [CS61A-Fall-2021-UCB](https://github.com/MartinLwx/CS61A-Fall-2021-UCB)
 
 ## Progressing
 
--   [ ] [CS61A-Fall-2021-UCB](https://github.com/MartinLwx/CS61A-Fall-2021-UCB)
 -   [ ] [CS61B-Spring-2021-UCB](https://github.com/MartinLwx/CS61B-Spring-2021-UCB)
 -   [ ] [Data100-Fall-2021](https://github.com/MartinLwx/Data100-Fall-2021-UCB)
 
