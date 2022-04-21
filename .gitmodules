@@ -10,6 +10,3 @@
 [submodule "UCB/Data100-Fall-2021-UCB"]
 	path = UCB/Data100-Fall-2021-UCB
 	url = git@github.com:MartinLwx/Data100-Fall-2021-UCB.git
-[submodule "6.005-Spring-2016-MIT"]
-	path = MIT/6.005-Spring-2016-MIT
-	url = git@github.com:MartinLwx/6.005-Spring-2016-MIT.git

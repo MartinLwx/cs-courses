@@ -21,10 +21,8 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 ## Progressing
 
 -   [ ] [CS61B-Spring-2021-UCB](https://github.com/MartinLwx/CS61B-Spring-2021-UCB)
--   [ ] [6.005-Fall-2016](https://web.mit.edu/6.005/www/sp16/)
 
 ## Plans
 
 
--   [ ] [CIS104-Fall-2016-PE](https://www.seas.upenn.edu/~cis194/fall16/)
 
