@@ -13,3 +13,6 @@
 [submodule "MIT/6.005-Spring-2016-MIT"]
 	path = MIT/6.005-Spring-2016-MIT
 	url = git@github.com:MartinLwx/6.005-Spring-2016-MIT.git
+[submodule "UPenn/CIS198-Spring-2016-UPenn"]
+	path = UPenn/CIS198-Spring-2016-UPenn
+	url = git@github.com:MartinLwx/CIS198-Spring-2016-UPenn.git
