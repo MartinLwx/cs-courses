@@ -16,3 +16,6 @@
 [submodule "UPenn/CIS198-Spring-2016-UPenn"]
 	path = UPenn/CIS198-Spring-2016-UPenn
 	url = git@github.com:MartinLwx/CIS198-Spring-2016-UPenn.git
+[submodule "Stanford/CS224W-Fall-2021-Stanford"]
+	path = Stanford/CS224W-Fall-2021-Stanford
+	url = https://github.com/MartinLwx/CS224W-Fall-2021-Stanford.git
