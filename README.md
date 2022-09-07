@@ -8,6 +8,9 @@ A collection of exercises in many cs-courses I have learned. Every course is org
 
 For a better reading experience, you may check my [website](https://martinlwx.github.io)(Incomplete）. I put some solutions in #course tag.
 
+
+> ⚠️ WARNING: This repo is only for **self-learning** purpose, please **DON'T PLAGIARIZE MY WORK and CHEAT IN THE CLASS**.
+
 ## Notations
 
 🎥 - Lecture videos available
@@ -56,10 +59,6 @@ Complex data can be represented as a graph of relationships between objects. Suc
 
 
 ## Progressing
-
-- [ ] [CS61B-Spring-2021-UCB](https://github.com/MartinLwx/CS61B-Spring-2021-UCB)
-
-In CS 61B, we move to a somewhat more detailed (and to some extent, more basic) level of programming. Much of CS 61B will be concerned with the **tradeoffs in time and memory** for a variety of methods for structuring data. We’ll also be concerned with the *engineering* knowledge and skills needed to build and maintain moderately large programs.
 
 - [ ] [6.005-Fall-2016](https://web.mit.edu/6.005/www/sp16/)
 
