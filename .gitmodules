@@ -16,3 +16,6 @@
 [submodule "Stanford/CS224W-Fall-2021-Stanford"]
 	path = Stanford/CS224W-Fall-2021-Stanford
 	url = https://github.com/MartinLwx/CS224W-Fall-2021-Stanford.git
+[submodule "Stanford/CS110L-Spring-2020-Stanford"]
+	path = Stanford/CS110L-Spring-2020-Stanford
+	url = git@github.com:MartinLwx/CS110L-Spring-2020-Stanford.git

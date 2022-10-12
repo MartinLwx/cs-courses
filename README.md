@@ -40,6 +40,14 @@ Classes teach you all about advanced topics within CS, from operating systems to
 An introduction to programming and computer science focused on abstraction techniques as means to **manage program complexity**. The course exposes students to programming paradigms, including **functional, object-oriented, and declarative approaches**. It includes an introduction to asymptotic analysis of algorithms. There are several significant programming projects.
 
 **Topics include**: *procedural abstraction*; *control abstraction using recursion*; *higher-order functions*; *generators*; *streams*; *data abstraction*; *language abstraction*.
+
+- [x] [CS110L: Safety in Systems Programming](https://github.com/MartinLwx/CS110L-Spring-2020-Stanford) 🎥🏷⌨️⚙️ - 📅`Spring-2020`
+
+This class is focused on **safety and robustness in systems programming**: Where do things often go wrong in computer systems? How can we avoid common pitfalls? We will use the Rust programming language as a vehicle to teach mental models and paradigms that have been shown to be helpful in preventing errors, and we will look at how these features have made their way back into C++. 
+
+**Topics include**: *error handling*; *memory safety*; *basic and intermediate rust programming*; *smart pointers*; *information security*; *scalability and availability*.
+
+
 ### Data Science
 
 - [x] [Data100: Principles and Techniques of Data Science](https://github.com/MartinLwx/Data100-Fall-2021-UCB) 🎥🏷⌨️⚙️ - 📅`Fall-2021`
