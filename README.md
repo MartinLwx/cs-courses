@@ -47,6 +47,12 @@ This class is focused on **safety and robustness in systems programming**: Where
 
 **Topics include**: *error handling*; *memory safety*; *basic and intermediate rust programming*; *smart pointers*; *information security*; *scalability and availability*.
 
+- [x] [CIS198. Rust Programming](https://github.com/MartinLwx/CIS198-Spring-2016-UPenn) 🏷⌨️⚙️ - 📅`Spring-2016`
+
+In this course, we will cover what makes Rust so unique and apply it to practical systems programming problems. 
+
+**Topics include**: *traits* and *generics*; *memory safety*; *move semantics*; *borrowing*; *lifetimes*; *rich macro system*; *closures*; *concurrency*. 
+
 
 ### Data Science
 
@@ -72,8 +78,5 @@ Complex data can be represented as a graph of relationships between objects. Suc
 
 Software construction. Topics: *Testing*, *Version control*, *Interfaces* and *Abstract Data Types*, etc. 
 
-- [ ] [CIS198-Spring-2016-UPenn](https://cis198-2016s.github.io)
-
-In this course, we will cover what makes Rust so unique and apply it to practical systems programming problems. Topics covered will include *traits* and *generics*; *memory safety* (*move semantics*, *borrowing*, and *lifetimes*); Rust’s *rich macro system*; *closures*; and *concurrency*. 
 
 ## Plans
