@@ -17,9 +17,9 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 🏷 - PPT/Notes/Reading available
 
-⌨️ - Assignmnets/Homeworks/Projects available
+⌨️  - Assignmnets/Homeworks/Projects available ( coding rather then writing )
 
-⚙️ - Autograde for assignments/homeworks/projects available
+⚙️  - Autograde for assignments/homeworks/projects available
 
 ## Finished
 
@@ -52,6 +52,14 @@ This class is focused on **safety and robustness in systems programming**: Where
 In this course, we will cover what makes Rust so unique and apply it to practical systems programming problems. 
 
 **Topics include**: *traits* and *generics*; *memory safety*; *move semantics*; *borrowing*; *lifetimes*; *rich macro system*; *closures*; *concurrency*. 
+
+#### Data structure and algorithms
+
+- [x] 6.006. Introduction to algorithms in [OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/) 🎥🏷 - 📅`Spring-2020`
+
+This is an introductory course covering elementary data structures (**dynamic arrays, heaps, balanced binary search trees, hash tables**) and algorithmic approaches to solve classical problems (**sorting, graph searching, dynamic programming**). Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.
+
+**Topics include**: *sorting*; *binary tree*; *binary heaps*; *bread-first search*; *depth-first search*; *Single source shortest path*; *All pairs shortest path*; *Dynamic programming*
 
 
 ### Data Science
