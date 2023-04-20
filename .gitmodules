@@ -19,3 +19,6 @@
 [submodule "Stanford/CS110L-Spring-2020-Stanford"]
 	path = Stanford/CS110L-Spring-2020-Stanford
 	url = git@github.com:MartinLwx/CS110L-Spring-2020-Stanford.git
+[submodule "Coursera/Machine-learning-Coursera"]
+	path = Coursera/Machine-learning-Coursera
+	url = git@github.com:MartinLwx/Machine-learning-Coursera.git

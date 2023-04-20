@@ -4,10 +4,7 @@
 
 This is a repo for cs-courses.
 
-A collection of exercises in many cs-courses I have learned. Every course is organized as a git-submodule. You may click on the links below, which will bring you to the real repo.
-
-For a better reading experience, you may check my [website](https://martinlwx.github.io)(Incomplete）. I put some solutions in #course tag.
-
+A collection of exercises in many cs-courses I have learned. Every course is organized as a git submodule. You may click on the links below, which will bring you to the real repo.
 
 > ⚠️ WARNING: This repo is only for **self-learning** purpose, please **DON'T PLAGIARIZE MY WORK and CHEAT IN THE CLASS**.
 
@@ -17,13 +14,13 @@ For a better reading experience, you may check my [website](https://martinlwx.gi
 
 🏷 - PPT/Notes/Reading available
 
-⌨️  - Assignmnets/Homeworks/Projects available ( coding rather then writing )
+⌨️  - Assignments/Homework/Projects available ( coding rather than writing )
 
-⚙️  - Autograde for assignments/homeworks/projects available
+⚙️  - Autograde for assignments/homework/projects available
 
 ## Finished
 
-> By clicking the hyper links, you can jump into another repo which contains my solutions.
+> By clicking the hyperlinks, you can jump into another repo that contains my solutions.
 
 ### CS tools
 
@@ -37,7 +34,7 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 - [x] [CS61A: Structure and Interpretation of Computer Programs](https://github.com/MartinLwx/CS61A-Fall-2021-UCB) 🎥🏷⌨️⚙️ - 📅`Fall-2021`
 
-An introduction to programming and computer science focused on abstraction techniques as means to **manage program complexity**. The course exposes students to programming paradigms, including **functional, object-oriented, and declarative approaches**. It includes an introduction to asymptotic analysis of algorithms. There are several significant programming projects.
+An introduction to programming and computer science focused on abstraction techniques as means to **manage program complexity**. The course exposes students to programming paradigms, including **functional, object-oriented, and declarative approaches**. It includes an introduction to the asymptotic analysis of algorithms. There are several significant programming projects.
 
 **Topics include**: *procedural abstraction*; *control abstraction using recursion*; *higher-order functions*; *generators*; *streams*; *data abstraction*; *language abstraction*.
 
@@ -73,11 +70,17 @@ This intermediate level class bridges between [Data 8](http://data8.org/) and up
 
 ### Deep Learning
 
+- [x] [Machine learning in Coursera](https://github.com/MartinLwx/Machine-learning-Coursera) 🎥🏷⌨️⚙️ 📅`2022` (**The assignments are NOT the latest version**)
+
+This **beginner-friendly** program will teach you the **fundamentals of machine learning** and how to use these techniques to build real-world AI applications. By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems.
+
+**Topics include**: *supervised learning*; *unsupervised learning*; *reinforcement leanring*; *linear regression*; *linear classification*; *back-propagation*; *decision trees*
+
 - [x] [CS224W: Machine Learning with Graphs](https://github.com/MartinLwx/CS224W-Fall-2021-Stanford.git) 🎥🏷⌨️ - 📅`Fall-2021`
 
 Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biological systems. This course focuses on the **computational, algorithmic, and modeling challenges specific to the analysis of massive graphs**. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
 
-**Topics include**: *representation learning and Graph Neural Networks*; *algorithms for the World Wide Web*; *reasoning over Knowledge Graphs*; *influence maximization*; *disease outbreak detection*, *social network analysis*.
+**Topics include**: *representation learning and Graph Neural Networks*; *algorithms for the World Wide Web*; *reasoning over Knowledge Graphs*; *influence maximization*; *disease outbreak detection*; *social network analysis*.
 
 
 ## Progressing
