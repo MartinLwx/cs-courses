@@ -22,3 +22,6 @@
 [submodule "Coursera/Machine-learning-Coursera"]
 	path = Coursera/Machine-learning-Coursera
 	url = git@github.com:MartinLwx/Machine-learning-Coursera.git
+[submodule "CMU/10-414-Fall-2022-CMU"]
+	path = CMU/10-414-Fall-2022-CMU
+	url = git@github.com:MartinLwx/10-414-Fall-2022-CMU.git
