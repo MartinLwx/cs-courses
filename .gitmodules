@@ -25,3 +25,6 @@
 [submodule "CMU/10-414-Fall-2022-CMU"]
 	path = CMU/10-414-Fall-2022-CMU
 	url = git@github.com:MartinLwx/10-414-Fall-2022-CMU.git
+[submodule "Coursera/Programming-language-Coursera"]
+	path = Coursera/Programming-language-Coursera
+	url = git@github.com:MartinLwx/Programming-Languages-Coursera.git
