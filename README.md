@@ -38,7 +38,7 @@ An introduction to programming and computer science focused on abstraction techn
 
 **Topics**: procedural abstraction; control abstraction using recursion; higher-order functions; generators; streams; data abstraction; language abstraction
 
-- [x] [Programming Languages](https://www.coursera.org/learn/programming-languages) 🎥🏷⌨️⚙️ - 📅`2013`. [Solutions](https://github.com/MartinLwx/Programming-Languages-Coursera)
+- [x] [Programming Languages in Coursera](https://www.coursera.org/learn/programming-languages) 🎥🏷⌨️⚙️ - 📅`2013`. [Solutions](https://github.com/MartinLwx/Programming-Languages-Coursera)
 
 This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML, Racket, and Ruby as vehicles for teaching the concepts, but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. It will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. By using different languages, you will learn to think *more deeply than* in terms of the particular syntax of one language. The *emphasis on functional programming* is essential for learning how to write robust, reusable, composable, and elegant programs. Indeed, many of the most important ideas in modern languages *have* their roots in functional programming.
 
@@ -93,3 +93,27 @@ Complex data can be represented as a graph of relationships between objects. Suc
 The goal of this course is to provide students an understanding and *overview of the “full stack” of deep learning systems*, ranging from the high-level modeling design of modern deep learning systems, to the basic implementation of *automatic differentiation* tools, to the underlying device-level implementation of efficient algorithms. Throughout the course, students will *design and build from scratch a complete deep learning library*, capable of efficient GPU-based operations, automatic differentiation of all implemented functions, and the necessary modules to support parameterized layers, loss functions, data loaders, and optimizers.
 
 **Topics**: automatic differentiation; CNN implementation; RNN/LSTM implementation; various modules/operators implementation
+
+## Course Map
+```mermaid 
+mindmap
+CS
+  Tools
+    MS)Missing-semester(
+  Basic Programming
+    CS61A)"`CS61A`"(
+    Rust
+      CS100L)"`CS100L`"(
+      CIS198)"`CIS198`"(
+  Programming Languages
+    pl)"`Programming Languages (Coursera)`"(
+  Data Structure and Algorithms
+    6.006)"`MIT 6.006`"(
+  Data Science
+    Data100)"`Data100`"(
+  AI
+    ng)"`Machine Learning (Coursera)`"(
+    CS224W)"`CS224W`"(
+  MLsys
+    10414)"`10-414/714`"(
+```
