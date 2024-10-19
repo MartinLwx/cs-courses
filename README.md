@@ -1,12 +1,10 @@
 # cs-courses
 
-## Hi:wave:
+Hi :wave:, this is a repo for cs-courses.
 
-This is a repo for cs-courses.
+A collection of exercises in many courses I have learned. Every course is organized as a git submodule. You may click on the links below, which will bring you to the real repo.
 
-A collection of exercises in many cs-courses I have learned. Every course is organized as a git submodule. You may click on the links below, which will bring you to the real repo.
-
-> ⚠️ WARNING: This repo is only for *self-learning* purpose, please **DON'T PLAGIARIZE MY WORK and CHEAT IN THE CLASS**.
+> WARNING: This repo is only for *self-learning* purposes, please **DON'T PLAGIARIZE MY WORK and CHEAT IN THE CLASS**.
 
 ## Notations
 
@@ -34,7 +32,7 @@ Classes teach you all about advanced topics within CS, from operating systems to
 
 - [x] [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/) 🎥🏷⌨️⚙️ - 📅`Fall-2021`. [Solutions](https://github.com/MartinLwx/CS61A-Fall-2021-UCB)
 
-An introduction to programming and computer science focused on abstraction techniques as means to *manage program complexity*. The course exposes students to programming paradigms, including *functional, object-oriented, and declarative approaches*. It includes an introduction to the asymptotic analysis of algorithms. There are several significant programming projects.
+An introduction to programming and computer science focused on abstraction techniques as a means to *manage program complexity*. The course exposes students to programming paradigms, including *functional, object-oriented, and declarative approaches*. It includes an introduction to the asymptotic analysis of algorithms. There are several significant programming projects.
 
 **Topics**: procedural abstraction; control abstraction using recursion; higher-order functions; generators; streams; data abstraction; language abstraction
 
@@ -43,6 +41,12 @@ An introduction to programming and computer science focused on abstraction techn
 This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML, Racket, and Ruby as vehicles for teaching the concepts, but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. It will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. By using different languages, you will learn to think *more deeply than* in terms of the particular syntax of one language. The *emphasis on functional programming* is essential for learning how to write robust, reusable, composable, and elegant programs. Indeed, many of the most important ideas in modern languages *have* their roots in functional programming.
 
 **Topics**: SML; Racket; Ruby; functional programming; higher-order functions; pattern-matching; delayed evaluation; macros; object-oriented programming; generics; subtype; bounded polymorphism
+
+- [x] [Haskell Mooc](https://haskell.mooc.fi) 🏷⌨️⚙️ . [Solutions](https://github.com/MartinLwx/haskell-mooc)
+
+This is an online course on functional programming that uses the Haskell programming language, which is aimed at beginners who wish to learn functional programming, but also people who have experience with functional programming and want to learn Haskell in particular. The course assumes no previous knowledge, but knowing at least one programming language beforehand will make the course easier.
+
+**Topics**: Haskell; functional programming; lazy evaluation; functor; applicative; monad; monoid
 
 - [x] [CS110L: Safety in Systems Programming](https://reberhardt.com/cs110l/spring-2020) 🎥🏷⌨️⚙️ - 📅`Spring-2020`. [Solutions](https://github.com/MartinLwx/CS110L-Spring-2020-Stanford)
 
@@ -69,7 +73,7 @@ This is an introductory course covering elementary data structures (*dynamic arr
 
 - [x] [Data100: Principles and Techniques of Data Science](https://ds100.org/fa21/) 🎥🏷⌨️⚙️ - 📅`Fall-2021`. [Solutions](https://github.com/MartinLwx/Data100-Fall-2021-UCB)
 
-This intermediate level class bridges between [Data 8](http://data8.org/) and upper division computer science and statistics courses as well as methods courses in other fields. In this class, we explore *key areas of data science including question formulation*.
+This intermediate-level class bridges between [Data 8](http://data8.org/) and upper-division computer science and statistics courses as well as methods courses in other fields. In this class, we explore *key areas of data science including question formulation*.
 
 **Topics**: data collection and cleaning; visualization; statistical inference; predictive modeling; and decision making
 
@@ -90,7 +94,7 @@ Complex data can be represented as a graph of relationships between objects. Suc
 
 - [x] [10-414/714: Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/lectures/) 🎥🏷⌨️⚙️ 📅`Fall-2022`. [Solutions](https://github.com/MartinLwx/10-414-Fall-2022-CMU)
 
-The goal of this course is to provide students an understanding and *overview of the “full stack” of deep learning systems*, ranging from the high-level modeling design of modern deep learning systems, to the basic implementation of *automatic differentiation* tools, to the underlying device-level implementation of efficient algorithms. Throughout the course, students will *design and build from scratch a complete deep learning library*, capable of efficient GPU-based operations, automatic differentiation of all implemented functions, and the necessary modules to support parameterized layers, loss functions, data loaders, and optimizers.
+The goal of this course is to provide students with an understanding and *overview of the “full stack” of deep learning systems*, ranging from the high-level modeling design of modern deep learning systems, to the basic implementation of *automatic differentiation* tools, to the underlying device-level implementation of efficient algorithms. Throughout the course, students will *design and build from scratch a complete deep learning library*, capable of efficient GPU-based operations, automatic differentiation of all implemented functions, and the necessary modules to support parameterized layers, loss functions, data loaders, and optimizers.
 
 **Topics**: automatic differentiation; CNN implementation; RNN/LSTM implementation; various modules/operators implementation
 
@@ -105,6 +109,8 @@ CS
     Rust
       CS100L)"`CS100L`"(
       CIS198)"`CIS198`"(
+    Haskell
+      Hmooc)"`Haskell-mooc`"(
   Programming Languages
     pl)"`Programming Languages (Coursera)`"(
   Data Structure and Algorithms

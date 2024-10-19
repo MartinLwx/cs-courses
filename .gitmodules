@@ -28,3 +28,6 @@
 [submodule "Coursera/Programming-language-Coursera"]
 	path = Coursera/Programming-language-Coursera
 	url = git@github.com:MartinLwx/Programming-Languages-Coursera.git
+[submodule "Helsinki/haskell-mooc"]
+	path = Helsinki/haskell-mooc
+	url = git@github.com:MartinLwx/haskell-mooc.git
